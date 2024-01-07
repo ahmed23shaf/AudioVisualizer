@@ -1,6 +1,6 @@
-# Graphic Equalizer Display
+# Audio Visualizer
 ### About
-This equalizer display divides the total frequency spectrum of an incoming audio signal into a discrete set of bars each of which correspond to a frequency component and then provides a real-time visualization of its magnitude. The specific frequencies are listed above each bar (in Hz). The more blue in a bar signifies a higher frequency.
+This display divides the total frequency spectrum of an incoming audio signal into a discrete set of bars each of which correspond to a frequency component and then provides a real-time visualization of its magnitude. The specific frequencies are listed above each bar (in Hz). The more blue in a bar signifies a higher frequency.
 
 ![image](https://github.com/ahmed23shaf/EqualizerDisplay/assets/112600024/d821bcae-d46b-4474-8408-5c981f80cea5)
 
